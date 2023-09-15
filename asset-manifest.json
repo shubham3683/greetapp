@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.073c9b0a.css",
-    "main.js": "/static/js/main.72ff559a.js",
-    "static/js/787.b43d7498.chunk.js": "/static/js/787.b43d7498.chunk.js",
-    "index.html": "/index.html",
-    "main.073c9b0a.css.map": "/static/css/main.073c9b0a.css.map",
-    "main.72ff559a.js.map": "/static/js/main.72ff559a.js.map",
-    "787.b43d7498.chunk.js.map": "/static/js/787.b43d7498.chunk.js.map"
+    "main.css": "https://shubham3683.github.io/greetapp/static/css/main.073c9b0a.css",
+    "main.js": "https://shubham3683.github.io/greetapp/static/js/main.3f7008c1.js",
+    "static/js/787.b43d7498.chunk.js": "https://shubham3683.github.io/greetapp/static/js/787.b43d7498.chunk.js",
+    "index.html": "https://shubham3683.github.io/greetapp/index.html",
+    "main.073c9b0a.css.map": "https://shubham3683.github.io/greetapp/static/css/main.073c9b0a.css.map",
+    "main.3f7008c1.js.map": "https://shubham3683.github.io/greetapp/static/js/main.3f7008c1.js.map",
+    "787.b43d7498.chunk.js.map": "https://shubham3683.github.io/greetapp/static/js/787.b43d7498.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.72ff559a.js"
+    "static/js/main.3f7008c1.js"
   ]
 }
